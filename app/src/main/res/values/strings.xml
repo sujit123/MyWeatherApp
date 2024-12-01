@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="city_name">Enter city name</string>
+    <string name="send_request">Fetch current weather</string>
+    <string name="loading"> Loading…</string>
+    <string name="pls_enter_city">Please enter city name</string>
+    <string name="condition">Condition :</string>
+    <string name="temperature">Temperature :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="name">Name :</string>
+    <string name="region">Region :</string>
+    <string name="country">Country :</string>
+</resources>
